@@ -7,7 +7,7 @@ This repository contains two Python scripts designed to answer frequently asked 
 - **toefl_faq.py**: A script focused on answering FAQs related to the TOEFL (Test of English as a Foreign Language) exam.
 - **ielts_faq.py**: A script dedicated to answering FAQs related to the IELTS (International English Language Testing System) exam.
 
-## How to Use
+## How to Use the project:
 
 1. **Clone the repository**:
    ```bash
@@ -27,7 +27,6 @@ This repository contains two Python scripts designed to answer frequently asked 
      - For IELTS FAQs:
        ```bash
        python ielts_faq.py
-
 
 Requirements
 Python 3.x
